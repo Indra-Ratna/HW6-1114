@@ -1,0 +1,21 @@
+#Indra Ratna
+#CS-UY 1114
+#27 Oct 2018
+#Homework 6
+#Problem 1
+
+program 1
+
+q(30,5) returns
+10
+60
+37
+
+program 2 returns 
+1
+1
+1
+f!o!o!
+
+program 3 returns 
+PPP
